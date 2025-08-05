@@ -33,8 +33,6 @@ https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/chunklist.m3u8
 https://iko-live.akamaized.net/ZarokTV/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.peyam.net/wene/logo.png" ,PEYAM TV
 https://media2.streambrothers.com:1936/8218/8218/chunklist_w1034112696.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.knnc.net/wene/logo.png" ,KNN 
-https://silicon.kurdlive.xyz/live/knnHD/chunklist_w1730674107.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://kirkuktv.net/wene/logo.png" ,KIRKUK TV
 https://live.kirkuklive.live/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jintv.net/img/logo.png" ,JIN TV
@@ -45,5 +43,6 @@ https://iko-live.akamaized.net/AlyuamTV/master_1.m3u8
 https://iko-streamline-live1.akamaized.net/CiraTV/master_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ronahi.tv/images/logo.svg" ,Ronahi TV
 https://iko-streamline-live1.akamaized.net/RonahiTV/master_3.m3u8
+
 
 
