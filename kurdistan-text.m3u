@@ -47,6 +47,20 @@ https://iko-streamline-live1.akamaized.net/RonahiTV/master_3.m3u8
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=bdqdOX70sTJt1ZmMLtVhhQ&e=1755015957
 #EXTINF:-1, can tv
 https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+#EXTINF:-1, tele1
+https://cdn401.canlitv.me/tele1.m3u8?tkn=5MRQw3mCSRHF-zqq0d2xgQ&tms=1755018388&hst=www.canlitv.me&ip=2001:14ba:44bf:4200:e499:45c1:e072:ab1b
+#EXTINF:-1, habar global
+https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
+#EXTINF:-1, Halktv
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1, shabantv
+https://cdn900.canlitv.me/sabantv.m3u8?tkn=jCgFMst-RC3wMwecStNjqA&tms=1755019404&hst=www.canlitv.me&ip=90.231.27.209
+#EXTINF:-1, TV100
+https://cdn404.canlitv.me/tv100.m3u8?tkn=Yk5Zz0boMolE3ecXCwVrdg&tms=1755019448&hst=www.canlitv.me&ip=90.231.27.209
+
+
+
+
 
 
 
