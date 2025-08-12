@@ -43,6 +43,14 @@ https://iko-live.akamaized.net/AlyuamTV/master_1.m3u8
 https://iko-streamline-live1.akamaized.net/CiraTV/master_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ronahi.tv/images/logo.svg" ,Ronahi TV
 https://iko-streamline-live1.akamaized.net/RonahiTV/master_3.m3u8
+#EXTINF:-1, cnn
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=bdqdOX70sTJt1ZmMLtVhhQ&e=1755015957
+#EXTINF:-1, can tv
+https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
+
+
+
+
 
 
 
