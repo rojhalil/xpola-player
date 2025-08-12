@@ -73,14 +73,15 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1, BBC arabic
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8
-#EXTINF:-1, BBC pers
-https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1, BBC PERS
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1, Iran ferda
+https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:-1, iran international
-https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/mobile_wifi_main_hd_abr_v2.m3u8
-#EXTINF:-1, Iran press
-https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv13/b=2812032/main.m3u8
-#EXTINF:-1, Iran Ferda
-https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv13/b=2812032/main.m3u8
+https://irhls.persiana.live/hls/stream.m3u8
+
+
+
 
 
 
