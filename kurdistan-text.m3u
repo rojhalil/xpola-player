@@ -85,10 +85,9 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:-1, iran international
 https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1, CNN TURK
-https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1, CNN TURK HD
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=3A8_-ada7ThSJFHDnMajkg&e=1755026488
+
 
 
 
