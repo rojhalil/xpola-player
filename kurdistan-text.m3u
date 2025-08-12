@@ -49,8 +49,8 @@ https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1, Halktv
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1, shabantv
-https://cdn900.canlitv.me/sabantv.m3u8?tkn=CAzuREKerrrvyf8IXeROsA&tms=1755035544&hst=www.canlitv.me&ip=90.231.27.209
+#EXTINF:-1, SHABAN TV
+https://cdn900.canlitv.me/sabantv.m3u8?tkn=6R4Llb-5Pkvy9_u-aBAXvg&tms=1755050135&hst=www.canlitv.me&ip=90.231.27.209
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a47dccc8b03290f51feb34f10dce89c7.webp", Al meshed
 https://bcovlive-a.akamaihd.net/rbcb04b715757430f92099ecc84ca472f/ap-south-1/6313884884001/playlist.m3u8
 #EXTINF:-1, al jazeere
@@ -81,6 +81,7 @@ https://cdn402.canlitv.services/ntv.m3u8?tkn=fzE2q6NrKjsEXJdIC56dFA&tms=17550488
 https://yayin2.canlitv.fun/live/ntv.stream/chunklist_w738456589.m3u8?hash=fad044b31e01a79bc5204f65cd552640
 #EXTINF:-1, TELE 1 4K
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+
 
 
 
