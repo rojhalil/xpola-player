@@ -75,6 +75,18 @@ https://irhls.persiana.live/hls/stream.m3u8
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=3A8_-ada7ThSJFHDnMajkg&e=1755026488
 #EXTINF:-1, CNN 4K
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=CKv6X1uOoEnhH_5o1qbE2A&e=1755044408
+#EXTINF:-1, tele 1 HD
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=EQZEB92UWiyMNtkq2zTj_Q&e=1755044221
+#EXTINF:-1, NTV 4k
+https://cdn402.canlitv.services/ntv.m3u8?tkn=fzE2q6NrKjsEXJdIC56dFA&tms=1755048882&hst=www.canlitv.services&ip=90.231.27.209
+#EXTINF:-1, NTV HD
+https://yayin2.canlitv.fun/live/ntv.stream/chunklist_w738456589.m3u8?hash=fad044b31e01a79bc5204f65cd552640
+#EXTINF:-1, A HABAR HD
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8?hash=fad044b31e01a79bc5204f65cd552640
+#EXTINF:-1, TELE 1 4K
+https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+
+
 
 
 
