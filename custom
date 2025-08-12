@@ -1,9 +1,0 @@
-#EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=8000000,RESOLUTION=3840x2160
-https://iko-streamline-live1.akamaized.net/MedyaHaber/master_1.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
-https://ronahi-tv.akamaized.net/hls/stream_0.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
-https://muzkurd.com/sterktv/sterk/chunklist_w1770756526.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
-https://aryen.tv/live/tv/chunklist_w862380771.m3u8
