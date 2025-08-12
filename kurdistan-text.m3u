@@ -70,15 +70,17 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1, skynews arabic
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1, BBC ARABIC
-https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-logo="https://www.bing.com/images/search?view=detailV2&ccid=TJGEc0O8&id=E64736105960B4685D1E88A11C19BD269F1AD7A1&thid=OIP.TJGEc0O88gpusG3MJXkIzAAAAA&mediaurl=https%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2fa%2fa0%2fRussia-today-logo.svg%2f300px-Russia-today-logo.svg.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4c91847343bcf20a6eb06dcc257908cc%3frik%3dodcanya9GRyhiA%26pid%3dImgRaw%26r%3d0&exph=300&expw=300&q=rt+arabic&FORM=IRPRST&ck=37EC6BD83538E092AEBA7650554C2452&selectedIndex=1&itb=0", RT arabic
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 #EXTINF:-1, CNN TURK
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
 #EXTINF:-1, IRAN INTERNATIONAL
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1, BBC pers
 https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8
+#EXTINF:-1, RT arabi
+https://live.presstv.ir/hls/ifilmfa.m3u8
+
+
+
 
 
 
