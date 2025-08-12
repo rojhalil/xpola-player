@@ -43,12 +43,8 @@ https://iko-live.akamaized.net/AlyuamTV/master_1.m3u8
 https://iko-streamline-live1.akamaized.net/CiraTV/master_1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ronahi.tv/images/logo.svg" ,Ronahi TV
 https://iko-streamline-live1.akamaized.net/RonahiTV/master_3.m3u8
-#EXTINF:-1, cnn
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=bdqdOX70sTJt1ZmMLtVhhQ&e=1755015957
 #EXTINF:-1, can tv
 https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
-#EXTINF:-1, tele1
-https://cdn401.canlitv.me/tele1.m3u8?tkn=5MRQw3mCSRHF-zqq0d2xgQ&tms=1755018388&hst=www.canlitv.me&ip=2001:14ba:44bf:4200:e499:45c1:e072:ab1b
 #EXTINF:-1, habar global
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1, Halktv
@@ -77,6 +73,10 @@ https://hls.iranfarda.live/hls/stream.m3u8
 https://irhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1, CNN TURK HD
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=3A8_-ada7ThSJFHDnMajkg&e=1755026488
+#EXTINF:-1, CNN 4K
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=CKv6X1uOoEnhH_5o1qbE2A&e=1755044408
+
+
 
 
 
