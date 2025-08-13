@@ -79,6 +79,13 @@ https://cdn402.canlitv.services/ntv.m3u8?tkn=fzE2q6NrKjsEXJdIC56dFA&tms=17550488
 https://yayin2.canlitv.fun/live/ntv.stream/chunklist_w738456589.m3u8?hash=fad044b31e01a79bc5204f65cd552640
 #EXTINF:-1, TELE 1 4K
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+#EXTINF:-1, shabantv hd
+https://cdn900.freebroadcast.vip/sabantv.m3u8?tkn=FDy1xrVZbOgUnhhyeHY-Tg&tms=1755097428&hst=www.freebroadcast.vip&ip=90.231.27.209
+#EXTINF:-1, shabantv 4k
+https://cdn900.canlitvizle.online/sabantv.m3u8?tkn=kOaeQwxfTuA_UOrWkMYTTQ&tms=1755097500&hst=tv.canlitvizle.online&ip=90.231.27.209
+
+
+
 
 
 
