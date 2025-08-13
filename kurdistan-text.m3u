@@ -49,8 +49,6 @@ https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
 https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1, Halktv
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:-1, SHABAN TV
-https://cdn900.canlitv.me/sabantv.m3u8?tkn=6R4Llb-5Pkvy9_u-aBAXvg&tms=1755050135&hst=www.canlitv.me&ip=90.231.27.209
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a47dccc8b03290f51feb34f10dce89c7.webp", Al meshed
 https://bcovlive-a.akamaihd.net/rbcb04b715757430f92099ecc84ca472f/ap-south-1/6313884884001/playlist.m3u8
 #EXTINF:-1, al jazeere
@@ -71,16 +69,17 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persia
 https://hls.iranfarda.live/hls/stream.m3u8
 #EXTINF:-1, iran international
 https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1, CNN TURK HD
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=3A8_-ada7ThSJFHDnMajkg&e=1755026488
-#EXTINF:-1, CNN 4K
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=CKv6X1uOoEnhH_5o1qbE2A&e=1755044408
+#EXTINF:-1, CNN
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=MnjZMoQD3eOJQWh_4jlDSw&e=1755092472
+#EXTINF:-1, SHABAN TV
+https://cdn900.canlitv.me/sabantv.m3u8?tkn=sTqbwycy5FAtxYqzIRLeOg&tms=1755096339&hst=www.canlitv.me&ip=90.231.27.209
 #EXTINF:-1, NTV 4k
 https://cdn402.canlitv.services/ntv.m3u8?tkn=fzE2q6NrKjsEXJdIC56dFA&tms=1755048882&hst=www.canlitv.services&ip=90.231.27.209
 #EXTINF:-1, NTV HD
 https://yayin2.canlitv.fun/live/ntv.stream/chunklist_w738456589.m3u8?hash=fad044b31e01a79bc5204f65cd552640
 #EXTINF:-1, TELE 1 4K
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+
 
 
 
