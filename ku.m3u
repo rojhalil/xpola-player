@@ -67,3 +67,5 @@ https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/chunklist.m3u8
 https://6476e46b58f91.streamlock.net/liveTrans/SHOW1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://ronahi-tv.akamaized.net/Web/media/logo.png", Ronahi TV
 https://iko-streamline-live1.akamaized.net/RonahiTV/master_3.m3u8
+#EXTINF:-1 tvg-logo="https://aryen.tv/Web/media/logo.png", Aryen TV
+https://stream.aryen.tv/live/tv/chunklist_w1914419666.m3u8
