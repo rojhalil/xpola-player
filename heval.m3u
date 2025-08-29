@@ -80,11 +80,6 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 https://yayin2.canlitv.fun/live/ntv.stream/chunklist_w738456589.m3u8?hash=fad044b31e01a79bc5204f65cd552640
 #EXTINF:-1 tvg-id="ext" tvg-name="CNN TURK 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-turk-us-tr.svg" group-title="News",CNN TURK 4K
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=5BjNxj9Us5oO0sN1SEBj9A&e=1756327541
-#EXTINF:-1 tvg-id="KEMAL.tr" tvg-name="SHABANTV 4K" tvg-logo="KEMAL SUNAL" group-title="FILM1",SHABANTV
-https://www.youtube.com/watch?v=NdJPKV0aCPs
-#EXTINF:-1 tvg-id="SHABAN.tr" tvg-name="SHABANTV 4K" tvg-logo="KEMAL SUNAL" group-title="FILM",SHABANTV
-https://www.youtube.com/watch?v=z8o52IfBhGk
-#EXTM3U
 #EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-name="Al Yaum TV (1080p)" tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="News",Al Yaum TV (1080p)
 https://iko-live.akamaized.net/AlyuamTV/master.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-name="Sky News Arabia (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News",Sky News Arabia (1080p) [Not 24/7]
@@ -137,7 +132,6 @@ https://live.i-news.tv/hls/stream.m3u8
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-name="TRT Arabi (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="News",TRT Arabi (1080p) [Not 24/7]
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News (720p)
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="AFNTV.ir" tvg-name="AFN TV (720p)" tvg-logo="https://i.imgur.com/LctanF8.png" group-title="Music",AFN TV (720p)
@@ -170,6 +164,7 @@ https://rjtvhls.wns.live/hls/stream.m3u8
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1,NETFLIX  ACTION
 http://ugeen.live:8080/Ugeen_VIPTpNmHC/4d9wM2/2047
+
 
 
 
