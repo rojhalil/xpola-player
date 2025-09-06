@@ -6,11 +6,11 @@ https://trn09.bozztv.com/gin-sterk/index.m3u8
 #EXTINF:-1 tvg-id="RonahiTV.sy" tvg-name="Ronahi TV (1080p)" tvg-logo="https://i.imgur.com/JSvJpD8.png" group-title="Undefined",Ronahi TV (1080p)
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MedyaHaber TV" tvg-logo="https://medyahabertv.com/wp-content/uploads/2023/05/MedyaHaberLogo.png" group-title="Channels",MedyaHaber TV
-https://iko-streamline-live1.akamaized.net/MedyaHaber/master_1.m3u8
+https://hlspackager.akamaized.net/live/DB/MEDYA_HABER/HLS/MEDYA_HABER.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Alyaum TV
-https://iko-live.akamaized.net/AlyuamTV/master_1.m3u8
+https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:-1 tvg-id="AlYaumTV.ae" tvg-name="Al Yaum TV (1080p)" tvg-logo="https://i.imgur.com/rBixF3P.png" group-title="News",Al Yaum TV (1080p)
-https://iko-live.akamaized.net/AlyuamTV/master.m3u8
+https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",can tv
 https://livetv.canbroadcast.com:7443/canlican/tv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Halktv
@@ -18,13 +18,13 @@ https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:0 tvg-id="ext" group-title="TURKISH | OTT",TELE 1 4K
 https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
 #EXTINF:-1 tvg-id="RojavaTV.sy" tvg-name="Rojava TV (1080p)" tvg-logo="https://i.imgur.com/42noysO.png" group-title="General",Rojava TV (1080p)
-https://iko-streamline-live1.akamaized.net/RojavaTV/master.m3u8
+https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 #EXTINF:-1 tvg-id="CiraTV.de" tvg-name="Cira TV" tvg-logo="https://i.imgur.com/YFnmSLW.png" group-title="Undefined",Cira TV
 https://iko-streamline-live1.akamaized.net/CiraTV/master_1.m3u8
 #EXTINF:-1 tvg-id="JinTV.nl" tvg-name="Jin TV" tvg-logo="https://i.imgur.com/37ajg2j.png" group-title="Culture",Jin TV
 https://live.jintv.org/medialive/jintv.m3u8
 #EXTINF:-1 tvg-id="MedMuzik.tr" tvg-name="Med Muzik (1080p)" tvg-logo="https://i.imgur.com/gtUFmCD.png" group-title="Music",Med Muzik (1080p)
-http://54.36.110.140/live3/live3.m3u8
+https://hlspackager.akamaized.net/live/DB/MED_MUSIC/HLS/MED_MUSIC.m3u8
 #EXTINF:-1 tvg-id="WelatTV.sy@HD" tvg-name="Welat TV (1080i)" tvg-logo="https://avatars.githubusercontent.com/u/213803648?s=400&u=e27c09d39f813b9698de9c6559cbf7f196bf6fce&v=4" group-title="News",Welat TV (1080i)
 http://stream.welattv.net:1935/welat/tv/.m3u8
 #EXTINF:-1 tvg-id="RudawTV.iq" tvg-name="Rudaw TV (1080p)" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="News",Rudaw TV (1080p)
