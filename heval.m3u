@@ -4,7 +4,7 @@ https://stream.aryen.tv/live/tv/chunklist_w1914419666.m3u8
 #EXTINF:-1 tvg-id="SterkTV.be@SD" tvg-name="Sterk TV" tvg-logo="https://i.imgur.com/bIheNAI.png" group-title="News",Sterk TV
 https://trn09.bozztv.com/gin-sterk/index.m3u8
 #EXTINF:-1 tvg-id="RonahiTV.sy" tvg-name="Ronahi TV (1080p)" tvg-logo="https://i.imgur.com/JSvJpD8.png" group-title="Undefined",Ronahi TV (1080p)
-https://iko-streamline-live1.akamaized.net/RonahiTV/master.m3u8
+https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="MedyaHaber TV" tvg-logo="https://medyahabertv.com/wp-content/uploads/2023/05/MedyaHaberLogo.png" group-title="Channels",MedyaHaber TV
 https://iko-streamline-live1.akamaized.net/MedyaHaber/master_1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News",Alyaum TV
