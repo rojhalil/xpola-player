@@ -172,7 +172,7 @@ https://cdn301.freebroadcast.vip/tv8.m3u8?tkn=7k1Altmv5Nbu7HRuThREYw&tms=1757289
 https://cdn306.freebroadcast.vip/trtspor.m3u8?tkn=ysjLh0dtfRnAV3khzCSufA&tms=1757288779&hst=iframe.canlitvme.com&ip=2a00:801:797:be2f:88e2:8d95:a68d:8046
 #EXTINE:-1,TRT1
 https://cdn302.freebroadcast.vip/trt1.m3u8?tkn=hIEOfGyZCGZh-kDAdvsacA&tms=1757288951&hst=tv.canlitvme.com&ip=2a00:801:797:be2f:88e2:8d95:a68d:8046
-#EXTINE:-1,Bein sport 
+#EXTINF:-1 tvg-id="RJTV.us" tvg-name="Radio Javan TV (1080p)" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Music",Radio Javan TV (1080p)
 https://cdn306.freebroadcast.vip/beinsporthaber.m3u8?tkn=hncHlalABHJ6PhfnnPV2Iw&tms=1757289154&hst=tv.canlitvme.com&ip=2a00:801:797:be2f:88e2:8d95:a68d:8046
 
 
