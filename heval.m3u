@@ -164,7 +164,7 @@ https://rjtvhls.wns.live/hls/stream.m3u8
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1,NETFLIX  ACTION
 http://ugeen.live:8080/Ugeen_VIPTpNmHC/4d9wM2/2047
-EXTINF:-1,CNN  TURK
+#EXTINF:-1,CNN  TURK
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=ggyxepK_HrQdN6JlUhaQqg&e=1757284139
 #EXTINE:-1,TV8 TR
 https://cdn301.freebroadcast.vip/tv8.m3u8?tkn=7k1Altmv5Nbu7HRuThREYw&tms=1757289038&hst=tv.canlitvme.com&ip=2a00:801:797:be2f:88e2:8d95:a68d:8046
