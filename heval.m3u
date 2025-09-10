@@ -79,7 +79,7 @@ https://ensonhaber-live.ercdn.net/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-name="NTV HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/ntv-tr.svg" group-title="TURKISH | OTT",NTV HD
 https://yayin2.canlitv.fun/live/ntv.stream/chunklist_w738456589.m3u8?hash=fad044b31e01a79bc5204f65cd552640
 #EXTINF:-1 tvg-id="ext" tvg-name="CNN TURK 4K" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-turk-us-tr.svg" group-title="News",CNN TURK 4K
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=5BjNxj9Us5oO0sN1SEBj9A&e=1756327541
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=ggyxepK_HrQdN6JlUhaQqg&e=1757284139
 #EXTINF:-1 tvg-id="Wartv.ae" tvg-name="WAR TV (1080p)" tvg-"title="News",WAR TV (1080p)
 https://hlspackager.akamaized.net/live/DB/WAAR_HD/HLS/WAAR_HD.m3u8
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-name="Sky News Arabia (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News",Sky News Arabia (1080p) [Not 24/7]
@@ -164,6 +164,18 @@ https://rjtvhls.wns.live/hls/stream.m3u8
 https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:-1,NETFLIX  ACTION
 http://ugeen.live:8080/Ugeen_VIPTpNmHC/4d9wM2/2047
+EXTINF:-1,CNN  TURK
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=ggyxepK_HrQdN6JlUhaQqg&e=1757284139
+#EXTINE:-1,TV8 TR
+https://cdn301.freebroadcast.vip/tv8.m3u8?tkn=7k1Altmv5Nbu7HRuThREYw&tms=1757289038&hst=tv.canlitvme.com&ip=2a00:801:797:be2f:88e2:8d95:a68d:8046
+#EXTINE:-1,TRT Sport 
+https://cdn306.freebroadcast.vip/trtspor.m3u8?tkn=ysjLh0dtfRnAV3khzCSufA&tms=1757288779&hst=iframe.canlitvme.com&ip=2a00:801:797:be2f:88e2:8d95:a68d:8046
+#EXTINE:-1,TRT1
+https://cdn302.freebroadcast.vip/trt1.m3u8?tkn=hIEOfGyZCGZh-kDAdvsacA&tms=1757288951&hst=tv.canlitvme.com&ip=2a00:801:797:be2f:88e2:8d95:a68d:8046
+#EXTINE:-1,Bein sport 
+https://cdn306.freebroadcast.vip/beinsporthaber.m3u8?tkn=hncHlalABHJ6PhfnnPV2Iw&tms=1757289154&hst=tv.canlitvme.com&ip=2a00:801:797:be2f:88e2:8d95:a68d:8046
+
+
 
 
 
