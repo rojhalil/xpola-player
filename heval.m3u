@@ -253,7 +253,8 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-name="POWER TURK TAPTAZE" tvg-id="" tvg-logo="https://i.ibb.co/F5K5xs9/powerturk-taptaze.png" group-title="MUZIK",POWER TURK TAPTAZE
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
-
+#EXTINF:-1 tvg-name="shams tv
+https://stream.shams.tv/hls/stream.m3u8
 
 
 
