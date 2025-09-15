@@ -255,9 +255,8 @@ https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 http://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/ss/shams-tv-iq.svg " ,shams TV
 https://stream.shams.tv/hls/stream.m3u8
-
-
-
+#EXTINF:-1 tvg-id="ext" tvg-name="MedyaHaber TV" tvg-logo="https://medyahabertv.com/wp-content/uploads/2023/05/MedyaHaberLogo.png" group-title="Channels",MedyaHaber TV
+https://myflix-vod.akamaized.net/obs/output/1113_689840b27fe47/hls/master_QycbtmFwdRzuAnlh.m3u8
 
 
 
