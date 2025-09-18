@@ -57,7 +57,6 @@ https://media.streambrothers.com:1936/8226/8226/playlist.m3u8
 https://media2.streambrothers.com:1936/8218/8218/playlist.m3u8
 #EXTINF:-1 tvg-id="ZarokTV.tr" tvg-name="Zarok TV (720p)" tvg-logo="https://i.imgur.com/o0eevnb.png" group-title="Undefined",Zarok TV (720p)
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-#EXTM3U
 #EXTINF:-1 tvg-id="CanTV.tr" tvg-name="Can TV (720p)" tvg-logo="https://i.imgur.com/oIMtuwB.png" group-title="News",Can TV (720p)
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn" tvg-name="CGTN (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png" group-title="News",CGTN (1080p)
